@@ -1,12 +1,15 @@
 # Sorting Assignment
 
 ## Student Name(s)
-- ehlon18
+- Eylon Horev
+- Aharon Madar
 
 ## Selected Algorithms
-- 1 - Bubble Sort
-- 4 - Merge Sort
-- 5 - Quick Sort
+- 1. Bubble Sort
+- 2. Selection Sort
+- 3. Insertion Sort
+- 4. Merge Sort
+- 5. Quick Sort 
 
 ## How To Run
 Install dependency:
