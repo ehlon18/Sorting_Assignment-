@@ -1,6 +1,6 @@
 # Sorting Assignment
 
-## Student Name(s)
+## Students Names
 - Eylon Horev
 - Aharon Madar
 
@@ -36,4 +36,4 @@ CLI options:
 This plot compares average running time (with standard deviation error bars) on random integer arrays. Slower `O(n^2)` methods should grow much faster than `O(n log n)` methods as size increases.
 
 ### result2.png (Nearly Sorted Arrays)
-This plot shows behavior on nearly sorted data. Algorithms that benefit from partial order can improve significantly, while others may see smaller improvements depending on pivot behavior and implementation details.
+This plot shows behavior on nearly sorted data. Algorithms that benefit from partial order can improve significantly, while others may see smaller improvements depending on pivot behavior and implementation details. quick sort, for example, actully can preform worse in this case.
