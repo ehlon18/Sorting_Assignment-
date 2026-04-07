@@ -30,6 +30,8 @@ CLI options:
 - `-e` nearly sorted noise experiment (`1` = 5%, `2` = 20%)
 - `-r` repetitions per size
 
+Note that for the O(n^2) algorithms, we limited the array size they can accept to 50,000, so as not to cause very long runtimes.
+
 ## Figures
 
 ### result1.png (Random Arrays)
